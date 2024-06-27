@@ -2,7 +2,7 @@ import React from "react";
 import MarketingApp from "./components/MarketingApp";
 
 export default () => {
-  //cons
+  //console.log()
   return (
     <div>
       <h1>Main container</h1>
