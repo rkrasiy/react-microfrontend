@@ -7,7 +7,7 @@ import Pricing from "./components/pricing";
 
 export default () => {
 
-  
+//Text
   return (
     <div>
       <StylesProvider>
